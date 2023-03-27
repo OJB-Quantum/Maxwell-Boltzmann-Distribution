@@ -1,2 +1,2 @@
 # Maxwell-Boltzmann-Distribution
-Calculated distributions for thin film metal deposition in a vacuum chamber.
+Contains some high-resolution plots of a Maxwell-Boltzmann Distribution for metal deposition in a vacuum chamber.
